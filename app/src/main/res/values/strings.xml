@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TaskManagerApp</string>
+    <string-array name="status_array">
+        <item>Pendente</item>
+        <item>Cancelado</item>
+        <item>Completado</item>
+    </string-array>
+</resources>
